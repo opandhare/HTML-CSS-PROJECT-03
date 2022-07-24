@@ -1,5 +1,5 @@
 # HTML-CSS-PROJECT-03
-## Created by : Onkar p.
+## Created by : Onkar P.
 ## Key takeaways from this project :
     -positioning
     -hiding background image partially.
